@@ -11,7 +11,7 @@ Apache Karaf 3.8.0
 ## Errata
 
 
-Fast build to assure compilation. Failed testsuite = failed build.
+Fast build to assure compilation. 
 ```
 gradlew jar
 gradlew test
