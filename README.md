@@ -1,13 +1,14 @@
 # Apache Kafka Report
 
-Apache Karaf 3.8.0
+Apache Karaf 3.9.0
 
 ## System Report
 
 | Operating System    | JDK       | Gradle | Architecture | Full Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|------------|-------|-------|
-| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 8.10.2 | x64      | Success | Oct 8. 2024 | 1 Failed Test kafka.coordinator.transaction.ProducerIdManagerTest |
-| Ubuntu 22.04 LTS    | IBM Semeru 17  | 8.10.2 | x64      | Success | Oct 8. 2024 | 5 Failed Test org.apache.kafka.clients.consumer.KafkaConsumerTest org.apache.kafka.clients.consumer.internals.AbstractCoordinatorTest org.apache.kafka.common.network.SslTransportLayerTest (2 cases) org.apache.kafka.common.network.Tls13SelectorTest  |
+| Ubuntu 22.04 LTS    | Eclipse Adoptium 17  | 8.10.2 | x64      | Success | Nov 20. 2024 |  |
+| Ubuntu 22.04 LTS    | IBM Semeru 17  | 8.10.2 | x64      | Pending | Nov 20. 2024 |  |
+| CentOS Stream 9    | Eclipse Adoptium 17  | 8.10.2 | PPC64LE      | Success | Nov 20. 2024 |  |
 
 ## Errata
 
