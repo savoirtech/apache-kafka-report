@@ -20,6 +20,6 @@ gradlew test
 
 ## How to use this repo
 
-Main branch is latest release of Apache CXF.
+Main branch is latest release of Apache Kafka.
 
 A branch is created for each release to record lab results.
