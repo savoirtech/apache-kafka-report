@@ -7,9 +7,9 @@ Apache Karaf 3.9.0
 | Operating System    | JDK       | Gradle | Architecture | Full Build | Date  | Notes |
 |---------------------|-----------|-------|--------------|------------|-------|-------|
 | Ubuntu 22.04 LTS    | Eclipse Adoptium 21  | 8.10.2 | x64      | Success | Nov 20. 2024 | |
-| Ubuntu 22.04 LTS    | IBM Semeru 17  | 8.10.2 | x64      | Success | Nov 20. 2024 | 2 failing tests out of 5901: storage,clients |
+| Ubuntu 22.04 LTS    | IBM Semeru 17  | 8.10.2 | x64      | Success | Nov 20. 2024 | 2 failing tests: storage,clients |
 | CentOS Stream 9    | Eclipse Adoptium 17  | 8.10.2 | PPC64LE      | Success | Nov 20. 2024 |  5 failing tests out of 5901: trogdor,storage,metadata,clients,core  |
-| CentOS Stream 9    | IBM Semeru 17  | 8.10.2 | PPC64LE      | Success | Nov 20. 2024 |    |
+| CentOS Stream 9    | IBM Semeru 17  | 8.10.2 | PPC64LE      | Success | Nov 20. 2024 |  7 failing tests: storage,metadata,connect:mirrir,connect:runtime,tools,core  |
 
 ## Errata
 
